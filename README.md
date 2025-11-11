@@ -13,8 +13,7 @@ width="50" height="50"
   cat "About this Profile"
 </h2>
 <p>
-  This project portfolio focuses on experimenting with penetration tests and system hardening; I am currently working on writing incident response summaries about real-world breaches. If you would like to see more about me and my journey, check out my
-  <a href=https://probinson3202.wixsite.com/zelus>website.</a>
+  This project portfolio focuses on experimenting with penetration tests and system hardening; I am currently working on writing incident response summaries about real-world breaches.
 </p>
 
 <h2>
