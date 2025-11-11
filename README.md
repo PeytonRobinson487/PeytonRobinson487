@@ -9,7 +9,7 @@ width="50" height="50"
 -->
 
 <h2>
-  <br><br><br><br>
+  <br><br>
   cat "About this Profile"
 </h2>
 <p>
@@ -29,7 +29,7 @@ width="50" height="50"
 
 <h3>
   <br><br>
-  echo $Tools_in_Projects
+  echo $Tools_&_Projects
 </h3>
 <p align="left">
    <img alt="Kali Linux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="50" height="50"/>
