@@ -29,7 +29,7 @@ width="50" height="50"
 
 <h3>
   <br><br>
-  echo $Tools_&_Projects
+  echo $Tools_used_in_Projects
 </h3>
 <p align="left">
    <img alt="Kali Linux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="50" height="50"/>
